@@ -7,7 +7,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 
-<h1 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7F536&width=435&lines=Hey++there%F0%9F%91%8B%2C+I+am+Chaitanya+Kharche+%F0%9F%91%A9%E2%80%8D%F0%9F%92%BB;Let's+explore+the+world+of+DevOps!%F0%9F%9A%80" alt="Typing SVG" /></a></h1>
+<h1 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=BB29BB&width=435&lines=Hey++there%F0%9F%91%8B%2C+I+am+Chaitanya+Kharche+%F0%9F%91%A9%E2%80%8D%F0%9F%92%BB;Let's+explore+the+world+of+DevOps!%F0%9F%9A%80" alt="Typing SVG" /></a></h1>
 
 <h3 align="center">DevOps and Cloud Enthusiast from India</h3>
 
