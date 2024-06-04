@@ -1,6 +1,6 @@
-<h1 align="center">Hey Everyone 👋, I'm Chaitanya Kharche</h1>
+
 <div id="header" align="center">
-<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
+<img align="center" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 </div>
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/chaitanya-kharche/">
