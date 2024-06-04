@@ -1,6 +1,6 @@
-
+<h1 align="center">Hey Everyone 👋, I'm Chaitanya Kharche</h1>
 <div id="header" align="center">
-  <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
+<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 </div>
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/chaitanya-kharche/">
@@ -15,7 +15,7 @@
 
 <div align="center">
   
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=jaiswaladi246&label=Profile%20views&color=0e75b6&style=flat" alt="jaiswaladi246" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=jaiswaladi246&label=Profile%20views&color=0e75b6&style=flat" alt="ckdevops01" /> </p>
 
 📫 Reach out to me at **chaitanyakharche51@gmail.com**
 
